@@ -15,8 +15,8 @@ em todas as linguagens de programação conhecidas.
     
 ***
 
-* [C]()
-* [C++]()
+* [C](https://github.com/gabrielfelipeassuncaodesouza/hello-world-museum/blob/main/content/HELLO.md#c)
+* [C++](https://github.com/gabrielfelipeassuncaodesouza/hello-world-museum/blob/main/content/HELLO.md#c-1)
 * [Cobol]()
 * [C#]()
 * [F#]()
