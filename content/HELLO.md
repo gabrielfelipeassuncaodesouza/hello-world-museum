@@ -27,3 +27,48 @@ int main() {
 }
 
 ```
+
+**
+
+### Java
+
+```java
+
+public class HelloWorld {
+
+	public static void main(String[] args) {
+		System.out.println("Hello, world!");
+	}
+}
+
+```
+
+**
+
+### Java Script 
+
+```js
+
+console.log("Hello, world!")
+
+``` 
+
+**
+
+### Python 
+
+```python
+
+print("Hello, world!")
+
+```
+
+**
+
+### Shell Script 
+
+```shell
+
+echo "Hello, world!"
+
+```
